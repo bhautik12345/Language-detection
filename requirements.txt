@@ -1,6 +1,5 @@
 keras
 tensorflow
 tf-keras
-pickle
 streamlit
 transformers
