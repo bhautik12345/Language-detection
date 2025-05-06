@@ -4,3 +4,4 @@ tf-keras
 streamlit
 transformers
 scikit-learn
+torch
